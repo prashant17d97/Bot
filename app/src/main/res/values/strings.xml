@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">BoT</string>
+    <string name="slogan">Be on Time</string>
+
+    <!--Screens-->
+    <string name="statics">Statics</string>
+    <string name="tracker">Tracker</string>
+    <string name="settings">Settings</string>
+
+
+    <string name="start_remainder">Start Remainder</string>
+    <string name="note">Note</string>
+    <string name="title">Title</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update">Update</string>
+    <string name="create">Create</string>
+    <string name="info">Information</string>
+    <string name="reset_warning">Are you sure, You want to reset the application? It will remove all your saved data.</string>
+    <string name="alert">Alert</string>
+    <string name="note_delete_warning">"Are you sure, You want to delete %s?"</string>
+
+    <string name="seconds">Seconds</string>
+    <string name="minutes">Minutes</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="weeks">Weeks</string>
+    <string name="months">Months</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="timeValue">Please enter time value....</string>
+
+
+    <string name="title_empty">Title is empty</string>
+    <string name="note_empty">Note is empty</string>
+    <string name="select_time_unit">Select Time Unit</string>
+    <string name="select_display_mode">Select Display Mode</string>
+    <string name="invalid_display_mode">Please Select Display Mode!</string>
+    <string name="invalid_time_unit">Please Select Time Unit!</string>
+    <string name="invalid_time_value">Please Enter time value!</string>
+    <string name="invalid_timeunit_value">Time value must be grater than 0!</string>
+
+    <string name="reminderCaption">BoT will reminder to note transaction on this time everyday.</string>
+
+    <!--Theme-->
+    <string name="system_default">System Default</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+
+    <!--Hours-->
+    <string name="hours01">01</string>
+    <string name="hours02">02</string>
+    <string name="hours03">03</string>
+    <string name="hours04">04</string>
+    <string name="hours05">05</string>
+    <string name="hours06">06</string>
+    <string name="hours07">07</string>
+    <string name="hours08">08</string>
+    <string name="hours09">09</string>
+    <string name="hours10">10</string>
+    <string name="hours11">11</string>
+    <string name="hours12">12</string>
+
+    <!--Hours Array-->
+    <string-array name="hours">
+        <item>@string/hours01</item>
+        <item>@string/hours02</item>
+        <item>@string/hours03</item>
+        <item>@string/hours04</item>
+        <item>@string/hours05</item>
+        <item>@string/hours06</item>
+        <item>@string/hours07</item>
+        <item>@string/hours08</item>
+        <item>@string/hours09</item>
+        <item>@string/hours10</item>
+        <item>@string/hours11</item>
+        <item>@string/hours12</item>
+    </string-array>
+
+    <!--minutes-->
+    <string name="minute00">00</string>
+    <string name="minute01">01</string>
+    <string name="minute02">02</string>
+    <string name="minute03">03</string>
+    <string name="minute04">04</string>
+    <string name="minute05">05</string>
+    <string name="minute06">06</string>
+    <string name="minute07">07</string>
+    <string name="minute08">08</string>
+    <string name="minute09">09</string>
+    <string name="minute10">10</string>
+    <string name="minute11">11</string>
+    <string name="minute12">12</string>
+    <string name="minute13">13</string>
+    <string name="minute14">14</string>
+    <string name="minute15">15</string>
+    <string name="minute16">16</string>
+    <string name="minute17">17</string>
+    <string name="minute18">18</string>
+    <string name="minute19">19</string>
+    <string name="minute20">20</string>
+    <string name="minute21">21</string>
+    <string name="minute22">22</string>
+    <string name="minute23">23</string>
+    <string name="minute24">24</string>
+    <string name="minute25">25</string>
+    <string name="minute26">26</string>
+    <string name="minute27">27</string>
+    <string name="minute28">28</string>
+    <string name="minute29">29</string>
+    <string name="minute30">30</string>
+    <string name="minute31">31</string>
+    <string name="minute32">32</string>
+    <string name="minute33">33</string>
+    <string name="minute34">34</string>
+    <string name="minute35">35</string>
+    <string name="minute36">36</string>
+    <string name="minute37">37</string>
+    <string name="minute38">38</string>
+    <string name="minute39">39</string>
+    <string name="minute40">40</string>
+    <string name="minute41">41</string>
+    <string name="minute42">42</string>
+    <string name="minute43">43</string>
+    <string name="minute44">44</string>
+    <string name="minute45">45</string>
+    <string name="minute46">46</string>
+    <string name="minute47">47</string>
+    <string name="minute48">48</string>
+    <string name="minute49">49</string>
+    <string name="minute50">50</string>
+    <string name="minute51">51</string>
+    <string name="minute52">52</string>
+    <string name="minute53">53</string>
+    <string name="minute54">54</string>
+    <string name="minute55">55</string>
+    <string name="minute56">56</string>
+    <string name="minute57">57</string>
+    <string name="minute58">58</string>
+    <string name="minute59">59</string>
+
+    <!--minutes Array-->
+    <string-array name="minutes">
+        <item>@string/minute00</item>
+        <item>@string/minute01</item>
+        <item>@string/minute02</item>
+        <item>@string/minute03</item>
+        <item>@string/minute04</item>
+        <item>@string/minute05</item>
+        <item>@string/minute06</item>
+        <item>@string/minute07</item>
+        <item>@string/minute08</item>
+        <item>@string/minute09</item>
+        <item>@string/minute10</item>
+        <item>@string/minute11</item>
+        <item>@string/minute12</item>
+        <item>@string/minute13</item>
+        <item>@string/minute14</item>
+        <item>@string/minute15</item>
+        <item>@string/minute16</item>
+        <item>@string/minute17</item>
+        <item>@string/minute18</item>
+        <item>@string/minute19</item>
+        <item>@string/minute20</item>
+        <item>@string/minute21</item>
+        <item>@string/minute22</item>
+        <item>@string/minute23</item>
+        <item>@string/minute24</item>
+        <item>@string/minute25</item>
+        <item>@string/minute26</item>
+        <item>@string/minute27</item>
+        <item>@string/minute28</item>
+        <item>@string/minute29</item>
+        <item>@string/minute30</item>
+        <item>@string/minute31</item>
+        <item>@string/minute32</item>
+        <item>@string/minute33</item>
+        <item>@string/minute34</item>
+        <item>@string/minute35</item>
+        <item>@string/minute36</item>
+        <item>@string/minute37</item>
+        <item>@string/minute38</item>
+        <item>@string/minute39</item>
+        <item>@string/minute40</item>
+        <item>@string/minute41</item>
+        <item>@string/minute42</item>
+        <item>@string/minute43</item>
+        <item>@string/minute44</item>
+        <item>@string/minute45</item>
+        <item>@string/minute46</item>
+        <item>@string/minute47</item>
+        <item>@string/minute48</item>
+        <item>@string/minute49</item>
+        <item>@string/minute50</item>
+        <item>@string/minute51</item>
+        <item>@string/minute52</item>
+        <item>@string/minute53</item>
+        <item>@string/minute54</item>
+        <item>@string/minute55</item>
+        <item>@string/minute56</item>
+        <item>@string/minute57</item>
+        <item>@string/minute58</item>
+        <item>@string/minute59</item>
+    </string-array>
+
+
+    <!--Time Format-->
+    <string name="AM">AM</string>
+    <string name="PM">PM</string>
+    <string name="theme">Theme</string>
+    <string name="reset">Reset</string>
+    <string name="useDynamicColor">Use Dynamic Color</string>
+    <string name="create_remainder_profile">Create Remainder Profile</string>
+
+    <!--Time Format Array-->
+    <string-array name="format">
+        <item>@string/AM</item>
+        <item>@string/PM</item>
+    </string-array>
+
+
+</resources>
